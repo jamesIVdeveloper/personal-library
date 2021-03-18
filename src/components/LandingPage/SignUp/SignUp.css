@@ -1,0 +1,12 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-line {
+  padding: 3px 0 3px 0;
+}
+
+.submit-btn {
+  padding-top: 5px;
+}

@@ -1,0 +1,13 @@
+nav {
+  padding: 0 50px 0 0;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav ul li {
+  padding: 0 5px 0 5px;
+  list-style: none;
+}
